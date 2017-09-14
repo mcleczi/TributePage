@@ -76,6 +76,7 @@ h5 {
 
 .best {
   padding: 20px 20px 20px 20px;
+  border: 2px solid #333333;
   /*font-family: monospace;*/
   /*white-space: pre;*/
 
@@ -91,6 +92,8 @@ h5 {
 .video {
   padding-top: 20px;
   padding-bottom: 20px;
+  border: 2px solid #333333;
+
 }
 
 .image1 img {
@@ -114,8 +117,9 @@ img#image {
   height: 100%;
 }
 img#image3 {
-  width: 70%;
+  width: 80%;
   height: 70%;
+  padding-left: 40px;
 }
 .foot {
   text-align: center;
